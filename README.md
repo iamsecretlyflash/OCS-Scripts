@@ -20,6 +20,18 @@ python3 apply_deadlines.py 10
 python3 apply_deadlines.py
 ```
 
+## Recommended Directory Structure
+```
+OCS-Scripts
+│
+└───create_event.py
+│
+└───apply_deadlines.py
+│
+└───chromedriver-mac-arm64
+    │
+    └───chromedriver.exe
+```
 ## Example Output
 
 After running the command, your calendar should look like this:
