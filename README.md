@@ -19,3 +19,9 @@ python3 ceate_event.py
 python3 apply_deadlines.py 10
 python3 apply_deadlines.py
 ```
+
+## Example Output
+
+After running the command, your calendar should look like this:
+
+<img width="750" alt="Screenshot 2024-09-25 at 7 00 16 PM" src="https://github.com/user-attachments/assets/ff4d8c34-4984-4908-a69b-9ddd69188841">
