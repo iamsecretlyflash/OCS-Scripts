@@ -7,15 +7,15 @@
 - Then run the script without any args and you should see events getting added to your apple calendar.
 
 ## Installing Dependencies
-'''console
+```console
 pip install -r requirements.txt
-'''
+```
 
 ## Running the scripts
-'''Python
+```Python
 python3 create_event.py 10
 python3 ceate_event.py
 
 python3 apply_deadlines.py 10
 python3 apply_deadlines.py
-'''
+```
